@@ -6,11 +6,11 @@ this repository includes scripts that are used to make trivial things more conve
 
 when doing plotread, checking if the alternative reads are aligned at the right position and well mapped is needed, so the purpose of this script is to make out checks easier. hope for our eyes are safe!
 ```shell
-ls
-ABCC11_16_48281385_2105342.txt	star_forblat_Dec252022_hj.sh
-sh star_forblat_Dec252022_v2_hj.sh ABCC11_16_48281385_2105342.txt
+(base) hojin@ihojin-ui-MacBookPro blat % ls
+ABR_17_1083229_2027286_star.txt	star_forblat_Dec252022_v2_hj.sh
+(base) hojin@ihojin-ui-MacBookPro blat % sh star_forblat_Dec252022_v2_hj.sh ABR_17_1083229_2027286_star.txt
 
-ls
-ABCC11_16_48281385_2105342.txt		star_forblat_Dec252022_hj.sh
-ABCC11_16_48281385_2105342_star.txt
+(base) hojin@ihojin-ui-MacBookPro blat % ls
+ABR_17_1083229_2027286_star.txt		star_forblat_Dec252022_v2_hj.sh
+ABR_17_1083229_2027286_star_star.txt
 ```
